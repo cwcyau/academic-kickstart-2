@@ -4,25 +4,7 @@ date = "2018-01-01"
 authors = ["Yiyan Zheng", "Ritika Sethi", "Lingegowda S Mangala", "Charlotte Taylor", "Juliet Goldsmith", "Ming Wang", "Kenta Masuda", "Mohammad Karaminejadranjbar", "David Mannion", "Fabrizio Miranda", "{others}"]
 publication_types = ["2"]
 publication = "Nature communications, (9), 1, _pp. 476_"
-publication_short = "Nature communications, (9), 1, _pp. 476_"
-abstract = ""
-abstract_short = ""
-image_preview = ""
-selected = false
-projects = []
-tags = []
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
 math = true
 highlight = true
 [header]
-image = ""
-caption = ""
 +++

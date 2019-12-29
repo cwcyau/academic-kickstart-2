@@ -4,25 +4,7 @@ date = "2017-01-01"
 authors = ["Ruta Sahasrabudhe", "Paul Lott", "Mabel Bohorquez", "Ted Toal", "Ana P Estrada", "John J Suarez", "Alejandro Brea-Fernandez", "Jose Cameselle-Teijeiro", "Carla Pinto", "Irma Ramos", "{others}"]
 publication_types = ["2"]
 publication = "Gastroenterology, (152), 5, _pp. 983--986_"
-publication_short = "Gastroenterology, (152), 5, _pp. 983--986_"
-abstract = ""
-abstract_short = ""
-image_preview = ""
-selected = false
-projects = []
-tags = []
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
 math = true
 highlight = true
 [header]
-image = ""
-caption = ""
 +++
