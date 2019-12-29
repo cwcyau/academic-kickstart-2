@@ -4,6 +4,7 @@ date = "2019-01-01"
 publication_types = ["1"]
 authors = ["Kaspar Martens", "Kieran Campbell", "Christopher Yau"]
 publication = "In: International Conference on Machine Learning, _pp. 4372--4381_"
+featured = true
 abstract = ""
 abstract_short = ""
 image_preview = ""
@@ -24,5 +25,4 @@ highlight = true
 [header]
 image = ""
 caption = ""
-featured = true
 +++
