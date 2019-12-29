@@ -1,10 +1,10 @@
 +++
-title = "Order under uncertainty: robust differential expression analysis using probabilistic models for pseudotime inference"
+title = "Order Under Uncertainty"
 date = "2016-01-01"
 authors = ["Kieran R Campbell", "Christopher Yau"]
 publication_types = ["2"]
-publication = "PLoS computational biology, (12), 11, _pp. e1005212_"
-publication_short = "PLoS computational biology, (12), 11, _pp. e1005212_"
+publication = "PLOS Computational Biology, (1), _pp. 20_"
+publication_short = "PLOS Computational Biology, (1), _pp. 20_"
 abstract = ""
 abstract_short = ""
 image_preview = ""

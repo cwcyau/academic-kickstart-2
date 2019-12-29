@@ -1,10 +1,10 @@
 +++
 title = "Genome-wide association study of CNVs in 16,000 cases of eight common diseases and 3,000 shared controls"
 date = "2010-01-01"
-authors = ["Nick Craddock", "Matthew E Hurles", "Niall Cardin", "Richard D Pearson", "Vincent Plagnol", "Samuel Robson", "Damjan Vukcevic", "Chris Barnes", "Donald F Conrad", "Eleni Giannoulatou", "{others}"]
+authors = ["Mark Lathrop", "Peter Donnelly", "Chris Yau"]
 publication_types = ["2"]
-publication = "Nature, (464), 7289, _pp. 713_"
-publication_short = "Nature, (464), 7289, _pp. 713_"
+publication = "Nature, (464), 7289, _pp. 713--720_"
+publication_short = "Nature, (464), 7289, _pp. 713--720_"
 abstract = ""
 abstract_short = ""
 image_preview = ""
