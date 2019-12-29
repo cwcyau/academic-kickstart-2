@@ -28,9 +28,8 @@ interests:
 
 education:
   courses:
-  - course: DPhil Systems Biology
-    institution: University of Warwick
-    year: 2017
+  - course: PhD Systems Biology
+    institution: Imperial College London
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
