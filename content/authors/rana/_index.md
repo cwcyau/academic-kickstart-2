@@ -1,33 +1,35 @@
 ---
 # Display name
-name: Kaspar Maertens
+name: Anas Rana
 
 # Username (this should match the folder name)
 authors:
-- kaspar
+- rana
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Grad Student
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
+- name: University of Birmingham
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: DPhil Student.
+bio: Postdoctoral Research Fellow.
 
 interests:
 - Statistical Machine Learning
+- Cancer Genomics
+
 
 education:
   courses:
-  - course: DPhil Statistics
-    institution: University of Oxford
-    year: 2020
+  - course: DPhil Systems Biology
+    institution: University of Warwick
+    year: 2017
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -35,4 +37,4 @@ user_groups:
 - Researchers
 ---
 
-Kaspar Maerten is a graduate student at the University of Oxford supervised by Christopher Yau and Professor Chris Holmes. He is interested in statistical machine learning and has been researching methods for dimensionality reduction using Gaussian Processes and Deep Neural Networks.
+Anas obtained his PhD in Computational Biology from the University of Warwick before taking up a postdoc at the University of Oxford. He is a Research Fellow at the University of Birmingham jointly supervised with Dr Andrew Beggs.

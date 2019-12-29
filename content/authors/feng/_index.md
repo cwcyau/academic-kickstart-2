@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Kaspar Maertens
+name: Yun Feng
 
 # Username (this should match the folder name)
 authors:
-- kaspar
+- feng
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,6 +22,7 @@ bio: DPhil Student.
 
 interests:
 - Statistical Machine Learning
+- Cancer Genomics
 
 education:
   courses:
@@ -35,4 +36,4 @@ user_groups:
 - Researchers
 ---
 
-Kaspar Maerten is a graduate student at the University of Oxford supervised by Christopher Yau and Professor Chris Holmes. He is interested in statistical machine learning and has been researching methods for dimensionality reduction using Gaussian Processes and Deep Neural Networks.
+Yun Feng is a final year Oxford Nuffield Department of Medicine-Cancer Research UK Prize Scholarship student working on cancer genomics modelling. He is jointly supervised by Dr David Church.

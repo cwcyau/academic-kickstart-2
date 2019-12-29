@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Kaspar Maertens
+name: Zhiyuan Hu
 
 # Username (this should match the folder name)
 authors:
-- kaspar
+- hu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Grad Student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,15 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: DPhil Student.
+bio: Postdoc
 
 interests:
-- Statistical Machine Learning
+- Cancer Genomics
+- Ovarian Cancer
 
 education:
   courses:
-  - course: DPhil Statistics
+  - course: DPhil Clinical Medicine
     institution: University of Oxford
     year: 2020
 
@@ -35,4 +36,4 @@ user_groups:
 - Researchers
 ---
 
-Kaspar Maerten is a graduate student at the University of Oxford supervised by Christopher Yau and Professor Chris Holmes. He is interested in statistical machine learning and has been researching methods for dimensionality reduction using Gaussian Processes and Deep Neural Networks.
+Zhiyuan was a Oxford CSC-NDM Prize Scholarship student working on single cell methods for understanding the function of SOX2 in ovarian cancer. She also works on computational methods for understanding the role of nonsense mediated decay in cancer. She was jointly supervised by Professors Ahmed Ashour Ahmed and continues her research in a postdoctoral role funded by Ovarian Cancer Action.
