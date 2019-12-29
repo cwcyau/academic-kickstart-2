@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Systems Biology
+  - course: DPhil Systems Biology
     institution: University of Warwick
     year: 2017
 
