@@ -15,7 +15,7 @@ role: Grad Student
 # Organizations/Affiliations
 organizations:
 - name: Heidelberg University/University of Birmingham
-  url: "https://const-ae.name/""
+  url: "https://const-ae.name/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Visiting Erasmus Student.
