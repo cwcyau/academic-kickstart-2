@@ -1,0 +1,38 @@
+---
+# Display name
+name: Dominic Danks
+
+# Username (this should match the folder name)
+authors:
+- danks
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Grad Student
+
+# Organizations/Affiliations
+organizations:
+- name: University of Birmingham / Alan Turing Institute
+  url: "https://www.turing.ac.uk/people/doctoral-students/dominic-danks"
+
+# Short bio (displayed in user profile at end of posts)
+bio: PhD Student.
+
+interests:
+- Statistical Machine Learning
+
+education:
+  courses:
+  - course: PhD Statistical Machine Learning
+    institution: University of Birmingham
+    year: 2024
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
+---
+
+Dom Danks is a first-year Doctoral student at The Alan Turing Institute and the University of Birmingham. His multidisciplinary supervision team consists of Christopher Yau, Alastair Denniston, Andrew Beggs and Theodore Kypraios. His background lies in the fields of physics and machine learning, having studied for an MSci in Theoretical Physics at the University of Birmingham and an MSc in Computational Statistics and Machine Learning at UCL. He is particularly excited by the prospect of improving healthcare outcomes using modern statistical techniques. His doctoral research therefore focuses on developing statistical and machine learning methodologies which have applications within biomedical research.
