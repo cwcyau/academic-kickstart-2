@@ -63,7 +63,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
 Christopher Yau is Professor of Artificial Intelligence at the University of Manchester and the Alan Turing Institute. His research interests include statistical machine learning and its application in the biomedical sciences.
