@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Christopher Yau
 
 # Username (this should match the folder name)
 authors:
@@ -14,20 +14,19 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Manchester
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am Professor of Artificial Intelligence. My research interests include statistical machine learning, genomics, .
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistical Machine Learning
+- Computational Genomics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: DPhil Statistics
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
