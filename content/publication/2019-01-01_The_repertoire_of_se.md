@@ -25,5 +25,5 @@ highlight = true
 [header]
 image = ""
 caption = ""
-featured = true
+featured = "true"
 +++
