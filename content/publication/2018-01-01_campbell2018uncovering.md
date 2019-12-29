@@ -4,6 +4,7 @@ date = "2018-01-01"
 publication_types = ["2"]
 authors = ["Kieran R Campbell", "Christopher Yau"]
 publication = "In: Nature Communications, (9), 1, _pp. 2442_"
+featured = true
 abstract = ""
 abstract_short = ""
 image_preview = ""

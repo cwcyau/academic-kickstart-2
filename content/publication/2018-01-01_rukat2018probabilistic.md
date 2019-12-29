@@ -4,6 +4,7 @@ date = "2018-01-01"
 publication_types = ["1"]
 authors = ["Tammo Rukat", "Chris Holmes", "Christopher Yau"]
 publication = "In: International Conference on Machine Learning, _pp. 4410--4419_"
+featured = true
 abstract = ""
 abstract_short = ""
 image_preview = ""
