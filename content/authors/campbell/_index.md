@@ -1,40 +1,40 @@
 ---
 # Display name
-name: Anas Rana
+name: Kieran Campbell
 
 # Username (this should match the folder name)
 authors:
-- rana
+- campbell
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Fellow
+role: Grad Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Birmingham
-  url: ""
+- name: University of Oxford
+  url: "http://www.lunenfeld.ca/researchers/campbell"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral Research Fellow.
+bio: Assistant Professor, University of Toronto
 
 interests:
 - Statistical Machine Learning
-- Cancer Genomics
+- Genomics
 
 
 education:
   courses:
-  - course: DPhil Systems Biology
-    institution: University of Warwick
+  - course: DPhil Statistical Genomics
+    institution: University of Oxford
     year: 2017
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Anas obtained his PhD in Computational Biology from the University of Warwick before taking up a postdoc at the University of Oxford. He is a Research Fellow at the University of Birmingham jointly supervised with Dr Andrew Beggs.
+Kieran completed his PhD in 2017 working on pseudotemporal statistical models for gene expression analysis. He was jointly supervised with Dr Caleb Webber in the Department of Physiology, Anatomy and Genetics at Oxford. He was a Banting Research Fellow at UBC and is now Assistant Professor at University of Toronto.

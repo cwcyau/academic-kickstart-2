@@ -1,28 +1,29 @@
 ---
 # Display name
-name: Anas Rana
+name: Paul Kirk
 
 # Username (this should match the folder name)
 authors:
-- rana
+- kirk
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Fellow
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Birmingham
-  url: ""
+- name: University of Oxford
+  url: "https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/h-to-m/paul-kirk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Postdoctoral Research Fellow.
 
 interests:
-- Statistical Machine Learning
-- Cancer Genomics
+- Statistic modelling
+- Approximate Inference
+- Genomics
 
 
 education:
@@ -34,7 +35,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Anas obtained his PhD in Computational Biology from the University of Warwick before taking up a postdoc at the University of Oxford. He is a Research Fellow at the University of Birmingham jointly supervised with Dr Andrew Beggs.
+Paul was a postdoc in the group at the Wellcome Trust Centre for Human Genetics working on statistical methods for genomic analysis. He is now a group leader (Programme Leader Track) within the Precision Medicine and Inference for Complex Outcomes (PREM) theme at the MRC Biostatistics Unit.
