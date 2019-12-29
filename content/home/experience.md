@@ -18,19 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Professor of Artificial Intelligence"
+  company = "University of Manchester"
+  company_url = "http://www.manchestetr.ac.uk"
+  location = "Manchester, UK"
+  date_start = "2020-01-07"
+  date_end = ""
+  description = """  """
+  
+[[experience]]
   title = "Professor of Artificial Intelligence and Data Science"
   company = "University of Birmingham"
   company_url = "http://www.birmingham.ac.uk"
   location = "Birmingham, UK"
   date_start = "2017-01-01"
   date_end = "2020-01-06"
-  description = """
-  Responsibilities include:
-  
-  * Principal Investigator
-  * Research Group Leader
-  * Postgraduate Module Lead and Tutor
-  """
+  description = """  """
 
 [[experience]]
   title = "Associate Professor in Genomic Medicine"
@@ -39,13 +42,7 @@ date_format = "Jan 2006"
   location = "Oxford, UK"
   date_start = "2013-10-01"
   date_end = "2017-02-01"
-  description = """
-  Responsibilities include:
-  
-  * Principal Investigator
-  * Research Group Leader
-  * Postgraduate Admissions and Lecturer
-  """
+  description = """  """
  
  [[experience]]
   title = "Lecturer in Statistics"
@@ -54,10 +51,5 @@ date_format = "Jan 2006"
   location = "London, UK"
   date_start = "2012-01-01"
   date_end = "2013-09-30"
-  description = """
-  Responsibilities include:
-  
-  * Postgraduate Admissions
-  * Undergraduate and Postgraduate Lecturer
-  """
+  description = """ """
 +++
