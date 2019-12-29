@@ -65,4 +65,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Christopher Yau is Professor of Artificial Intelligence at the University of Manchester and the Alan Turing Institute. His research interests include statistical machine learning and its application in the biomedical sciences.
+I am Professor of Artificial Intelligence at the University of Manchester and a Fellow at the Alan Turing Institute. I am co-Director of the Health Data Research-Alan Turing Institute Wellcome PhD programme in Health Data Science. Until January 2020, I was Professor of Artificial Intelligence at the University of Birmingham. I was previously Associate Professor in Genomic Medicine at the University of Oxford where I was a Group Leader at the Wellcome Trust Centre for Human Genetics. Prior to this, I was a Lecturer in Statistics in the Department of Mathematics at Imperial College.
