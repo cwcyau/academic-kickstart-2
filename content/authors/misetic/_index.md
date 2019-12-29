@@ -14,7 +14,7 @@ role: Grad Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Birmingham / Alan Turing Institute
+- name: King College London / Francis Crick Institute
   url: "https://www.crick.ac.uk/research/find-a-researcher/hrvoje-misetic"
 
 # Short bio (displayed in user profile at end of posts)
