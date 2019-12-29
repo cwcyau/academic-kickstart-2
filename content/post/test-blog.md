@@ -1,13 +1,14 @@
-+++
-title = "Christmas Blog Post"
-description = "Nothing special, but one post is boring."
-date = "2019-12-30"
-categories = [ "example", "configuration" ]
-tags = [
-    "example", 
-    "hugo"
-]
-+++
-
+---
+title: "Hello Hugo!"
+description: "Saying 'Hello' from Hugo"
+date: "2014-09-01"
+categories:
+  - "example"
+  - "hello"
+tags:
+  - "example"
+  - "hugo"
+  - "blog"
+---
 
 Hello World
