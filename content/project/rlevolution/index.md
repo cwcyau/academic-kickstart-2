@@ -1,9 +1,12 @@
 ---
-title: Interpretable Deep Learning for dimensionality reduction
-summary: Embedding functional ANOVA decompositions within deep learning frameworks.
+title: RLevolution
+summary: Unravelling the history of genomic instability through deep reinforcement learning.
 tags:
 - Deep Learning
 - Explainable Algorithms
+- Genomics
+- Cancer
+- Machine Learning
 date: "2019-01-01"
 
 # Optional external URL for project (replaces project detail page).
@@ -31,10 +34,9 @@ external_link: ""
 #slides: example
 ---
 
-Neural network models for dimensionality reduction, such as Variational AutoEncoders (VAEs), can identify latent low-dimensional structures embedded within high-dimensional data. These low-dimensional representations can provide some insight into patterns within datasets but their interpretation relies on how these map back on the original feature set. However the latter requires interpreting what the decoder network has learnt which makes it challenging. 
+Genomic copy number evolution in cancer refers to the acquisition or loss of genome segments over time due to mutational processes in cancer that result in the loss of biological mechanisms for the maintenance of genome integrity in cells. Genome sequencing can allow us to detect these copy number alterations in cancer cells but do not directly inform us what the sequence of evolutionary events was that led to the present state of the cancer. We have developed a novel, first-of-its-kind reinforcement learning based approach for inferring evolutionary trajectories from genomic copy number profiles which we call \RLEvolution. We show that \RLEvolution is able to deconvolve the sequence of complex events that may occur during cancer evolution using a combination of simulated and real-world cancer datasets.
 
-In this paper, we focus on understanding the sources of variation in Conditional VAEs. Our goal is to *decompose* the feature-level variation in high-dimensional data through disentanglement of additive and interactions effects of latent variables z and fixed inputs c. We propose to achieve this through the Neural Decomposition - an adaptation of the well-known concept of variance decomposition from classical statistics to deep learning models. We show that *identifiable* Neural Decomposition relies on training models subject to constraints on the marginal properties of the neural networks whilst naive implementations will lead to non-identifiable models.
+*Researchers:*
 
-We demonstrate the utility of our Neural Decomposition on a series of simulated examples as well as real gene expression data. For the latter, we show that it can provide a *scalable* approach to attribute biological variation in terms of the non-linear effects of latent variables, fixed inputs, and interactions between them. 
-
+- [Yun Feng](/authors/feng/)
 

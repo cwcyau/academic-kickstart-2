@@ -1,9 +1,10 @@
 ---
-title: Interpretable Deep Learning for dimensionality reduction
-summary: Embedding functional ANOVA decompositions within deep learning frameworks.
+title: Neural Decomposition
+summary: Developing interpretable deep neural network approaches for dimensionality reduction that embed functional ANOVA decompositions within variational autoencoders.
 tags:
 - Deep Learning
 - Explainable Algorithms
+- Machine Learning
 date: "2019-01-01"
 
 # Optional external URL for project (replaces project detail page).
@@ -33,8 +34,8 @@ external_link: ""
 
 Neural network models for dimensionality reduction, such as Variational AutoEncoders (VAEs), can identify latent low-dimensional structures embedded within high-dimensional data. These low-dimensional representations can provide some insight into patterns within datasets but their interpretation relies on how these map back on the original feature set. However the latter requires interpreting what the decoder network has learnt which makes it challenging. 
 
-In this paper, we focus on understanding the sources of variation in Conditional VAEs. Our goal is to *decompose* the feature-level variation in high-dimensional data through disentanglement of additive and interactions effects of latent variables z and fixed inputs c. We propose to achieve this through the Neural Decomposition - an adaptation of the well-known concept of variance decomposition from classical statistics to deep learning models. We show that *identifiable* Neural Decomposition relies on training models subject to constraints on the marginal properties of the neural networks whilst naive implementations will lead to non-identifiable models.
+In this project, we have focused on understanding the sources of variation in Conditional VAEs. Our goal is to *decompose* the feature-level variation in high-dimensional data through disentanglement of additive and interactions effects of latent variables and fixed inputs. We propose to achieve this through the *Neural Decomposition* - an adaptation of the well-known concept of variance decomposition from classical statistics to deep learning models. We show that *identifiable* Neural Decomposition relies on training models subject to constraints on the marginal properties of the neural networks whilst naive implementations will lead to non-identifiable models.
 
-We demonstrate the utility of our Neural Decomposition on a series of simulated examples as well as real gene expression data. For the latter, we show that it can provide a *scalable* approach to attribute biological variation in terms of the non-linear effects of latent variables, fixed inputs, and interactions between them. 
+*Researchers:*
 
-
+- [Kaspar Maertens](/authors/kaspar/)

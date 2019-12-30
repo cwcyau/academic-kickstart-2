@@ -1,10 +1,11 @@
 ---
-title: Interpretable Deep Learning for dimensionality reduction
-summary: Embedding functional ANOVA decompositions within deep learning frameworks.
+title: Ovarian Cancer
+summary: Computational genomics to tackle the `silent killer`
 tags:
-- Deep Learning
-- Explainable Algorithms
-date: "2019-01-01"
+- Cancer
+- Genomics
+- Bioinformatics
+date: "2016-01-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -31,10 +32,20 @@ external_link: ""
 #slides: example
 ---
 
-Neural network models for dimensionality reduction, such as Variational AutoEncoders (VAEs), can identify latent low-dimensional structures embedded within high-dimensional data. These low-dimensional representations can provide some insight into patterns within datasets but their interpretation relies on how these map back on the original feature set. However the latter requires interpreting what the decoder network has learnt which makes it challenging. 
+We are working with the [Ovarian Cancer Cell Laboratory](https://www.wrh.ox.ac.uk/research/ovarian-cancer) led by [Professor Ahmed Ahsour Ahmed](https://www.wrh.ox.ac.uk/team/ahmed-ahmed) to unlock the molecular mechanisms underlying high-grade serous ovarian cancer (HGSOC) using genomics and bioinformatics.
 
-In this paper, we focus on understanding the sources of variation in Conditional VAEs. Our goal is to *decompose* the feature-level variation in high-dimensional data through disentanglement of additive and interactions effects of latent variables z and fixed inputs c. We propose to achieve this through the Neural Decomposition - an adaptation of the well-known concept of variance decomposition from classical statistics to deep learning models. We show that *identifiable* Neural Decomposition relies on training models subject to constraints on the marginal properties of the neural networks whilst naive implementations will lead to non-identifiable models.
+## Premalignant SOX2 overexpression in the fallopian tubes of ovarian cancer patients
 
-We demonstrate the utility of our Neural Decomposition on a series of simulated examples as well as real gene expression data. For the latter, we show that it can provide a *scalable* approach to attribute biological variation in terms of the non-linear effects of latent variables, fixed inputs, and interactions between them. 
+We have discovered premalignant overexpression of SOX2 in the fallopian tubes of ovarian cancer patients which was nearly ubiquitous in HGSOCs. This was also a common feature in women with BRCA1 and BRCA2 mutations prior to ovarian cancer initiation. Thus, our data has important implications for screening, although it will need additional clinical evaluation to test the feasibility of quantitative detection of SOX2 expression or the expression of its downstream targets for this purpose. You can read the original research paper [here](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(16)30305-X/fulltext) as well as media reports [here](https://www.dailymail.co.uk/health/article-3712949/Ovarian-cancer-detected-deadly-Scientists-identify-key-enzyme-makes-disease-spread.html) and [here](https://www.telegraph.co.uk/science/2016/07/28/ovarian-cancer-test-on-horizon-as-scientists-find-earliest-signs/).
+
+## The unmasking non-genetic heterogeneity through by single-cell sequencing of fallopian tube epithelial cells
+
+More recently, we have used single cell sequencing to understand the inter-differentiation between cell states which promotes cancer cell survival under stress and fosters non-genetic heterogeneity (NGH). NGH is a surrogate of tumor resilience but its quantification is confounded by genetic heterogeneity. We showed that NGH can be accurately measured when informed by the molecular signatures of the normal cells of origin. We surveyed the transcriptomes of 4000 normal fallopian tube epithelial (FTE) cells, the cells of origin of serous ovarian cancer, and identified six FTE subtypes. We used subtype signatures to deconvolute SOC expression data and found substantial intra-tumor NGH that was previously unrecognized. Importantly, NGH-based stratification of ∼1700 tumors robustly predicted survival. Our findings lay the foundation for accurate prognostic and therapeutic stratification of SOC. You can read the preprint of the research paper [here](https://www.biorxiv.org/content/10.1101/672626v1).
+
+
+
+*Researchers:*
+
+- [Zhiyuan Hu](/authors/hu/)
 
 

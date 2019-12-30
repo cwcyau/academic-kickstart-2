@@ -26,12 +26,24 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Machine Learning"
+    tag = "Machine Learning"
   
   [[content.filter_button]]
+    name = "Genomics"
+    tag = "Genomics"
+
+   [[content.filter_button]]
+    name = "Cancer"
+    tag = "Cancer"
+    
+   [[content.filter_button]]
+    name = "Digital Health"
+    tag = "Digital Health"      
+
+  [[content.filter_button]]
     name = "Other"
-    tag = "Demo"
+    tag = "Other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

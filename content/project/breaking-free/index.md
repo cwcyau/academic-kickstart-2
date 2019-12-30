@@ -1,9 +1,10 @@
 ---
-title: Interpretable Deep Learning for dimensionality reduction
-summary: Embedding functional ANOVA decompositions within deep learning frameworks.
+title: Breaking Free with Artificial Intelligence
+summary: The Data Science of Digital Behaviour Intervention
 tags:
-- Deep Learning
-- Explainable Algorithms
+- Mental Health
+- Digital Health
+- Behavioural Science
 date: "2019-01-01"
 
 # Optional external URL for project (replaces project detail page).
@@ -31,10 +32,10 @@ external_link: ""
 #slides: example
 ---
 
-Neural network models for dimensionality reduction, such as Variational AutoEncoders (VAEs), can identify latent low-dimensional structures embedded within high-dimensional data. These low-dimensional representations can provide some insight into patterns within datasets but their interpretation relies on how these map back on the original feature set. However the latter requires interpreting what the decoder network has learnt which makes it challenging. 
+Using digital technology to improve health and care is now a priority focus for the UK National Health Service. New and maturing technological developments hold the potential to have a transformative effect on health service delivery. Digital health solutions can aid in the reduction of waiting times, more effective use of limited resources and improved treatment fidelity but, once such technologies are implemented, the dearth of data that can be acquired through their adoption itself presents a challenge. Data-driven insights, driven by machine learning and artificial intelligence techniques, can offer a glimpse of previously unknown patterns and identify opportunities for the development of new healthcare practices or policies. As digital health platforms become more sophisticated, the data that can be acquired often becomes more complex and heterogeneous, machine-based interpretation becomes a near-necessity.
 
-In this paper, we focus on understanding the sources of variation in Conditional VAEs. Our goal is to *decompose* the feature-level variation in high-dimensional data through disentanglement of additive and interactions effects of latent variables z and fixed inputs c. We propose to achieve this through the Neural Decomposition - an adaptation of the well-known concept of variance decomposition from classical statistics to deep learning models. We show that *identifiable* Neural Decomposition relies on training models subject to constraints on the marginal properties of the neural networks whilst naive implementations will lead to non-identifiable models.
+The [Breaking Free Group](http://www.breakingfreegroup.com/) is a leading digital health and behaviour science company. Founded in 2010, it is formed from a team of psychologists, substance misuse experts and technology specialists. With an organisational philosophy built around the principles of state-of-the-art behaviour science and the UK Medical Research Council evaluation framework, they have developed a bespoke digital behavioural intervention platform that provides 24/7 access to a secure, GDPR-compliant, online digital cognitive behaviour therapy (CBT) platform with a particular focus on substance misuse. Users of the platform complete pre- and post-therapy questionnaires and interactive exercises designed to teach strategies to overcome addictive behaviours and improve wellbeing. Scoring on questionnaire responses can signpost users to personalised information sources. Real-time quantitative data from the platform can be anonymously fed to health service providers and commissioners for planning and policy development purposes.
 
-We demonstrate the utility of our Neural Decomposition on a series of simulated examples as well as real gene expression data. For the latter, we show that it can provide a *scalable* approach to attribute biological variation in terms of the non-linear effects of latent variables, fixed inputs, and interactions between them. 
+Breaking Free has seen its digital platform commissioned for use by the Ministry of Justice in UK prisons, Non-Government Charitable Organisations and NHS Trusts. Uniquely, Breaking Free operates under a research ethics protocol approved by the NHS Health Research Authority and endorsement by the National Institute of Clinical Excellence allowing the data they collect to be utilised for broader research applications. More recently, two new online platforms have been deployed more widely to the public targeting alcohol consumption reduction and smoking cessation. Breaking Free are based in both Birmingham and Manchester.
 
-
+We have initiated a new multi-disciplinary collaboration with the Breaking Free Online team to develop novel data science methodologies to exploit real-time digital health monitoring and intervention data. Our working exemplars will be based on the unique behavioural insights captured by the Breaking Free Group but the research outputs would have generic applicability in other related settings including youth mental health conditions. 

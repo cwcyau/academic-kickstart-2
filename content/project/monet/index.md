@@ -1,9 +1,9 @@
 ---
-title: Interpretable Deep Learning for dimensionality reduction
-summary: Embedding functional ANOVA decompositions within deep learning frameworks.
+title: Multi-Omics Network inference
+summary: A novel Bayesian nonparametric regression approach for high-dimensionality multi-modal data integration.
 tags:
-- Deep Learning
-- Explainable Algorithms
+- Machine Learning
+- Genomics
 date: "2019-01-01"
 
 # Optional external URL for project (replaces project detail page).
@@ -31,10 +31,17 @@ external_link: ""
 #slides: example
 ---
 
-Neural network models for dimensionality reduction, such as Variational AutoEncoders (VAEs), can identify latent low-dimensional structures embedded within high-dimensional data. These low-dimensional representations can provide some insight into patterns within datasets but their interpretation relies on how these map back on the original feature set. However the latter requires interpreting what the decoder network has learnt which makes it challenging. 
+Dynamic alterations in gene expression programs during cell differentiation are regulated by the interplay of ubiquitous and tissue-specific transcription factors, and the epigenetic regulatory machinery. A mechanistic understanding can be postulated based on time-course multi-omics genome-wide measurements.
 
-In this paper, we focus on understanding the sources of variation in Conditional VAEs. Our goal is to *decompose* the feature-level variation in high-dimensional data through disentanglement of additive and interactions effects of latent variables z and fixed inputs c. We propose to achieve this through the Neural Decomposition - an adaptation of the well-known concept of variance decomposition from classical statistics to deep learning models. We show that *identifiable* Neural Decomposition relies on training models subject to constraints on the marginal properties of the neural networks whilst naive implementations will lead to non-identifiable models.
+We developed a novel Bayesian nonparametric regression approach called **M**ulti-**O**mics **NET**work inference (MONET) for high-dimensionality multi-modal data integration to quantify the temporally dependent forces driving development and investigate by perturbation effects. Sparsity-inducing priors regularise the TF-gene interaction network and a Dirichlet process prior to regulate the number of participating TFs. This gives rise to a Bayesian nonparametric model where the number of TFs are learnt from data and not specified a priori. Statistical inference is performed in a Bayesian setting using an implementation of Hamiltonian Monte Carlo (HMC)-derived No-U Turn Sampler (NUTS) in STAN.
 
-We demonstrate the utility of our Neural Decomposition on a series of simulated examples as well as real gene expression data. For the latter, we show that it can provide a *scalable* approach to attribute biological variation in terms of the non-linear effects of latent variables, fixed inputs, and interactions between them. 
+We show that MONET is able to extract accurate time-dependent TF-gene interaction networks and assess the importance of each TF for the different stages in haematopoietic development. Our model allows us to make predictions on the importance of specific TF over time and under different perturbation settings. Based on this we can create hypotheses for intervention to improve efficiency or halt development.
+
+
+*Researchers:*
+
+- [Anas Rana](/authors/rana/)
+
+
 
 

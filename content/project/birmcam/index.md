@@ -7,7 +7,7 @@ tags:
 date: "2019-10-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://birmcam.github.io/birmcam/"
+#external_link: "https://birmcam.github.io/birmcam/"
 
 #image:
 #  caption: Photo by rawpixel on Unsplash
@@ -33,7 +33,7 @@ external_link: "https://birmcam.github.io/birmcam/"
 
 # Introduction
 
-Christopher Yau is a co-investigator in the BIRM-CAM project that is led by Professors Tom Marshall (University of Birmingham) and Sylvia Richardson (MRC Biostatistics Unit, University of Cambridge).
+Christopher Yau is a co-investigator in the [BIRM-CAM](https://birmcam.github.io/birmcam/) project that is led by Professors Tom Marshall (University of Birmingham) and Sylvia Richardson (MRC Biostatistics Unit, University of Cambridge).
 
 # Multimorbidity
 
@@ -50,4 +50,5 @@ Electronic health records are a good source of information on multimorbidity bec
 The first part of our research will develop methods of data analysis. We will review research on different statistical methods for grouping illnesses together. We will hold a workshop involving leading UK researchers in the field to try to agree on the best approach to this type of analysis. Informed by this we will analyse two large databases of electronic health records, each including several million patients. In each database we will identify the groups of illnesses that co-occur and check our findings in the other database. This is considered good practice in analysis. At the end of this step we will produce software to analyse and find groups of illnesses in electronic health records and make this freely available for other researchers to use.
 
 The next part of our research will use additional information from two large surveys. Both surveys include details not always available in health records e.g. occupation, diet, lifestyle and measures of frailty. One includes 500,000 people the other has information on the same people over a period of 14 years. We will describe the consequences for patients of different combinations of illnesses: their levels of frailty because it is linked to need for social care; development of further illnesses; medications, use of health services and death. We will work with patient advisors to help guide analysis of patients journeys through health services. We will investigate possible causes of multimorbidity including people's social circumstances, the environment, lifestyle (smoking, alcohol, diet and exercise) and laboratory test results that might help indicate causes. This step will point to the areas of environment and lifestyle which should be investigated further as possible causes.
+
 
