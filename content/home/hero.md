@@ -51,6 +51,6 @@ hero_media = "hero-academic.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**A research group developing and applying novel statistical machine learning techniques to improve health and wellbeing through collaboration with the biological and medical sciences**
+**Developing novel statistical machine learning techniques to improve health and wellbeing through collaboration with the biological and medical sciences**
 
 
