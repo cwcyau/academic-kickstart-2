@@ -4,7 +4,7 @@ summary: Embedding functional ANOVA decompositions within deep learning framewor
 tags:
 - Deep Learning
 - Explainable Algorithms
-date: "2016-04-27T00:00:00Z"
+date: "2019-01-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
