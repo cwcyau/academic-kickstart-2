@@ -18,11 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am Professor of Artificial Intelligence. My research interests include statistical machine learning and its application in the biomedical sciences, in particular, cancer genomics.
+bio: I am Professor of Artificial Intelligence. I am interested in statistical machine learning and its applications in the biomedical sciences.
 
 interests:
 - Statistical Machine Learning
 - Computational Genomics
+- Digital Health
 
 education:
   courses:
@@ -65,4 +66,22 @@ user_groups:
 - Principal Investigators
 ---
 
-I am Professor of Artificial Intelligence at the University of Manchester and a Fellow at the Alan Turing Institute. I am co-Director of the Health Data Research-Alan Turing Institute Wellcome PhD programme in Health Data Science. Until January 2020, I was Professor of Artificial Intelligence at the University of Birmingham. I was previously Associate Professor in Genomic Medicine at the University of Oxford where I was a Group Leader at the Wellcome Trust Centre for Human Genetics. Prior to this, I was a Lecturer in Statistics in the Department of Mathematics at Imperial College.
+I am Professor of Artificial Intelligence at the [University of Manchester](https://www.manchester.ac.uk/) and a Fellow at the [Alan Turing Institute](https://www.turing.ac.uk/people/researchers/christopher-yau). I am also co-Director of the [Health Data Research-Alan Turing Institute Wellcome PhD programme in Health Data Science](https://www.hdruk.ac.uk/talent-training/hdr-uk-turing-phd-programme-funded-by-the-wellcome-trust/).
+
+## About Me
+
+I studied undergraduate Engineering at Cambridge where I did my masters dissertation with [Professor Andrew Blake](https://en.wikipedia.org/wiki/Andrew_Blake_(scientist)) at Microsoft Research on digital image analysis. Afterwards, I joined the EPSRC-funded Life Sciences Interface Doctoral Training Centre, led by [Professor David Gavaghan](https://www.cs.ox.ac.uk/people/david.gavaghan/) in Oxford where I completed my doctoral thesis in Statistics under the supervision of [Professor Chris Holmes](http://www.stats.ox.ac.uk/~cholmes/).
+
+I subsequently took up [MRC Fellowship in Biomedical Informatics](https://gtr.ukri.org/projects?ref=G0701810) before joining [Imperial College London](http://www.ic.ac.uk) as a Lecturer in Statistics in the Department of Mathematics. I rejoined Oxford where I became Associate Professor in Genomic Medicine as a Principal Investigator at the Wellcome Trust Centre for Human Genetics. I then became Reader and then Professor of Artificial Intelligence at the University of Birmingham prior to joining Manchester.
+
+I sit on the development group for the [Academy of Medical Science FLIER programme](https://acmedsci.ac.uk/grants-and-schemes/mentoring-and-other-schemes/FLIER) which I co-developed with the panel. I am also on the committee of the MRC Methodology Research Programme from April 2020. I co-lead the Machine Learning sub-domain for the Genomics England Clinical Interpretation Partnership in [Quantitative Methods, Functional Genomics and Machine Learning](https://www.genomicsengland.co.uk/portfolio/quantitative-methods-machine-learning-and-functional-genomics-gecip-domain-various-universities/).
+
+## Research Interests
+
+For many years, I have been interested in the development of novel statistical methods for solving a broad spectrum of biomedical problems from microscopy to genomics to mental health. Real problems inspired and underpin the methodological research I do and getting to grips with real scientific investigations and experiments grounds the research in reality. 
+
+My approach is normally Bayesian using formal probabilistic methods. This gives methods a coherent development framework allowing for greater rigour in model evaluation.
+
+I believe in a multi-disciplinary approach which involves working with and training not only statistical and machine learning scientists but also those from a biomedical, social science or clinical background.  
+
+

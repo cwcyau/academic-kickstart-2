@@ -21,7 +21,7 @@ organizations:
 bio: Affiliated PhD Student.
 
 interests:
-- Biioinformatics
+- Bioinformatics
 - Cancer Genomics
 
 education:

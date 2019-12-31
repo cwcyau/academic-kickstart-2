@@ -21,7 +21,7 @@ organizations:
 bio: PhD Student.
 
 interests:
-- Biioinformatics
+- Bioinformatics
 - Cancer Genomics
 
 education:
