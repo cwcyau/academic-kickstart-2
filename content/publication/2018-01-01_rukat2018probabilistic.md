@@ -19,7 +19,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "http://proceedings.mlr.press/v80/rukat18a.html"
 math = true
 highlight = true
 [header]
