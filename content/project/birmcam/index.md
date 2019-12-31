@@ -4,6 +4,7 @@ summary: Bringing Innovative Research Methods to Clustering Analysis of Multimor
 tags:
 - Multimorbidity
 - Electronic Health Records
+- Digital Health
 date: "2019-10-01"
 
 # Optional external URL for project (replaces project detail page).

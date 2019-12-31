@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:cyau@turing.ac.uk".
+  link: mailto:cyau@turing.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/cwcyau

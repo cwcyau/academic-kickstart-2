@@ -90,7 +90,7 @@ email = "cyau@turing.ac.uk"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Michael Smith Building, University of Manchestert, Dover St", city = "Manchester", postcode = "M13 9PT", country = "United Kingdom", country_code = "UK"}
+address = {street = "Professor Christopher Yau, Michael Smith Building, University of Manchester, Dover St", city = "Manchester", postcode = "M13 9PT", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
