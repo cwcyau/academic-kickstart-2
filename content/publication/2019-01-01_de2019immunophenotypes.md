@@ -2,7 +2,7 @@
 title = "Immunophenotypes of pancreatic ductal adenocarcinoma: Meta-analysis of transcriptional subtypes"
 date = "2019-01-01"
 publication_types = ["2"]
-authors = ["Ines {De Santiago}", "Christopher Yau", "Lara Heij", "Mark R Middleton", "Florian Markowetz", "Heike I Grabsch", "Michael L Dustin", "Shivan Sivakumar"]
+authors = ["Ines De Santiago", "Christopher Yau", "Lara Heij", "Mark R Middleton", "Florian Markowetz", "Heike I Grabsch", "Michael L Dustin", "Shivan Sivakumar"]
 publication = "In: International journal of cancer"
 abstract = ""
 abstract_short = ""

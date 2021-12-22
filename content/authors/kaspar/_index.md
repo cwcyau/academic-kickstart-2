@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Grad Student
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
+- name: Alan Turing Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -35,4 +35,4 @@ user_groups:
 - Researchers
 ---
 
-Kaspar Maerten is a graduate student at the University of Oxford supervised by Christopher Yau and Professor Chris Holmes. He is interested in statistical machine learning and has been researching methods for dimensionality reduction using Gaussian Processes and Deep Neural Networks.
+Kaspar Maertens was a graduate student at the University of Oxford supervised by Christopher Yau and Professor Chris Holmes. He completed his DPhil in 2020. He is interested in statistical machine learning and has been researching methods for dimensionality reduction using Gaussian Processes and Deep Neural Networks. He is currently a Research Fellow funded by the Crick-Turing Biomedical Awards.

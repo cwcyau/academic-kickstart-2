@@ -56,15 +56,18 @@ We are looking for researchers who buy into this philosophy to become involved w
 
 ## Postdoctoral 
 
-Postdoctoral opportunities are available at the University of Manchester. Please contact the Principal Investigator to enquire about availability.
+Postdoctoral opportunities are available at the University of Oxford. Please contact the Principal Investigator to enquire about availability.
 
 ## PhD
 
-Admissions are currently being taken through the following study programmes at the University of Manchester, please see the websites for more details:
+Graduate studies within the group can be supported through direct or indirect entry via the following study programmes at the University of Oxford, please see the websites for more details:
 
-* [University of Manchester Doctoral Training Programmes](https://www.manchester.ac.uk/study/postgraduate-research/funding/)
+* [Big Data Institute Centre for Doctoral Training](https://www.bdi.ox.ac.uk/study)
+* [Department for Women's & Reproductive Health](https://www.wrh.ox.ac.uk/study/research-degrees)
+* [Nuffield Department of Population Health](https://www.ndph.ox.ac.uk/study-with-us)
 * [China Scholarship Council](
-https://www.bmh.manchester.ac.uk/study/research/financial-support/csc-scholarship/)
+https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/china-scholarship-council-university-oxford-scholarships)
+* [Modern Statistics and Statistical Machine Learning (EPSRC Centre for Doctoral Training)](https://www.ox.ac.uk/admissions/graduate/courses/modern-statistics-statistical-machine-learning)
 * [Wellcome PhD Programme in Health Data Science](https://www.hdruk.ac.uk/talent-training/hdr-uk-turing-phd-programme-funded-by-the-wellcome-trust/)
 
 Potential applicants are encouraged to contact the Principal Investigator before making applications.

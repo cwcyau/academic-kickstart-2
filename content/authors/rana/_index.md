@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Fellow
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
 - name: University of Birmingham
-  url: ""
+  url: "https://www.birmingham.ac.uk/staff/profiles/cancer-genomic/rana-anas.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral Research Fellow.
+bio: Alumni 
 
 interests:
 - Statistical Machine Learning
@@ -34,7 +34,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Anas obtained his PhD in Computational Biology from the University of Warwick before taking up a postdoc at the University of Oxford. He is a Research Fellow at the University of Birmingham jointly supervised with Dr Andrew Beggs.
+Anas obtained his PhD in Computational Biology from the University of Warwick before taking up a postdoc at the University of Oxford. He was a Turing-funded Research Fellow at the University of Birmingham jointly supervised with Dr Andrew Beggs. He is now a Lecturer at the University of Birmingham.

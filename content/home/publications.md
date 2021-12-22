@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "Look up and search for publications from members of the group."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
