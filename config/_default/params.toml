@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = "Artificial Intelligence and Data Science for Health"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Artificial Intelligence and Data Science for Health Research Group at The University of Manchester led by Professor Christopher Yau."
+description = "Artificial Intelligence and Data Science for Health Research Group at The University of Oxford led by Professor Christopher Yau."
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -85,16 +85,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "cyau@turing.ac.uk"
+email = "christopher.yau@wrh.ox.ac.uk"
 #phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-#address = {street = "Professor Christopher Yau, University of Manchester, Dover St", city = "Manchester", postcode = "M13 9PT", country = "United Kingdom", country_code = "UK"}
+address = {street = "Professor Christopher Yau, Nuffield Department of Women's & Reproductive Health, University of Oxford, Level 3, Women's Centre, John Radcliffe Hospital", city = "Oxford", postcode = "OX3 9DU", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "53.465423", longitude = "-2.228856"}
+coordinates = {latitude = "51.7639", longitude = "-1.2198"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

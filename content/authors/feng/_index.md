@@ -36,4 +36,4 @@ user_groups:
 - Alumni
 ---
 
-Yun Feng completed his DPhil as an Oxford Nuffield Department of Medicine-Cancer Research UK Prize Scholarship student working on cancer genomics modelling. He was jointly supervised by Dr David Church. He is now part of the [Machine Learning Centre of Excellence](https://www.jpmorgan.com/technology/applied-ai-and-ml)) team at JP Morgan & Chase.
+Yun Feng completed his DPhil as an Oxford Nuffield Department of Medicine-Cancer Research UK Prize Scholarship student working on cancer genomics modelling. He was jointly supervised by Dr David Church. He is now Senior Associate in the [Machine Learning Centre of Excellence](https://www.jpmorgan.com/technology/applied-ai-and-ml)) team at JP Morgan & Chase.
