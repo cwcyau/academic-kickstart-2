@@ -14,8 +14,8 @@ role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Alan Turing Institute
-  url: ""
+- name: University of Oxford
+  url: "https://kasparmartens.rbind.io/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: DPhil Student.
@@ -35,4 +35,4 @@ user_groups:
 - Researchers
 ---
 
-Kaspar Maertens was a graduate student at the University of Oxford supervised by Christopher Yau and Professor Chris Holmes. He completed his DPhil in 2020. He is interested in statistical machine learning and has been researching methods for dimensionality reduction using Gaussian Processes and Deep Neural Networks. He is currently a Research Fellow funded by the Crick-Turing Biomedical Awards.
+Kaspar Maertens was a graduate student at the University of Oxford supervised by Christopher Yau and Professor Chris Holmes. He completed his DPhil in 2020. He is interested in statistical machine learning and has been researching methods for dimensionality reduction using Gaussian Processes and Deep Neural Networks. He was previously a Research Fellow funded by the Crick-Turing Biomedical Award and returned to Oxford as a Postdoctoral Research Fellow in 2022.

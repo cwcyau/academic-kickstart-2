@@ -33,7 +33,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Affiliates
+- Alumni
 ---
 
 Zhiyuan was a Oxford CSC-NDM Prize Scholarship student working on single cell methods for understanding the function of SOX2 in ovarian cancer. She also works on computational methods for understanding the role of nonsense mediated decay in cancer. She was jointly supervised by Professors Ahmed Ashour Ahmed. She is now a postdoctoral researcher in the [Sauka-Spengler Group](https://www.imm.ox.ac.uk/research/research-groups/sauka-spengler-group-gene-regulatory-networks-in-development-and-disease).
