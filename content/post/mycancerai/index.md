@@ -21,4 +21,4 @@ The workshop series was developed in partnership with [Ovarian Cancer Action](ht
 
 I am grateful to patients and OCA for their support in developing this work and its impact on my future research plans.
 
-The report is available to download from [here](https://github.com/cwcyau/turingaifellowship/blob/67a4a29068b2ffd31b340a254c495086ab46696d/MyCancerAndAI.pdf).
+The report is available to download from [here](https://github.com/cwcyau/turingaifellowship/blob/c38556ef96768a3b83744ea7c9eabe3290ffc623/mycancerai.pdf).
