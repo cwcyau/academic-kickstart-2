@@ -1,5 +1,5 @@
 +++
-title = "Statistical inference in hidden markov models using k-segment constraints"
+title = "Statistical inference in hidden Markov models using k-segment constraints"
 date = "2016-01-01"
 publication_types = ["2"]
 authors = ["Michalis K Titsias", "Christopher C Holmes", "Christopher Yau"]

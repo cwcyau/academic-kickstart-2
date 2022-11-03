@@ -1,5 +1,5 @@
 +++
-title = "Integrated single cell analysis reveals cell cycle and ontogeny related transcriptional heterogeneity in hscs"
+title = "Integrated single cell analysis reveals cell cycle and ontogeny related transcriptional heterogeneity in HSCs"
 date = "2018-01-01"
 publication_types = ["2"]
 authors = ["Benjamin Povinelli", "Quin Wills", "Nikolaos Barkas", "Christopher Booth", "Kieran Campbell", "Alba Rodriguez-Meira", "Sten Eirik Jacobsen", "Christopher Yau", "Adam Mead"]

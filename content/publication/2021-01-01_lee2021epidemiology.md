@@ -2,7 +2,7 @@
 title = "Epidemiology of pre-existing multimorbidity in pregnant women in the UK in 2018: a cross-sectional study"
 date = "2021-01-01"
 publication_types = ["2"]
-authors = ["Siang Ing Lee", "Amaya Azcoaga-Lorenzo", "Utkarsh Agrawal", "Jonathan I Kennedy", "Adeniyi Francis Fagbamigbe", "Holly Hope", "Anuradhaa Subramanian", "Astha Anand", "Beck Taylor", "Catherine Nelson-Piercy", "et. al."]
+authors = ["Siang Ing Lee", "Amaya Azcoaga-Lorenzo", "Utkarsh Agrawal", "Jonathan I Kennedy", "Adeniyi Francis Fagbamigbe", "Holly Hope", "Anuradhaa Subramanian", "Astha Anand", "Beck Taylor", "Catherine Nelson-Piercy", "{others}"]
 publication = "In: The Lancet, (398), _pp. S7_"
 abstract = ""
 abstract_short = ""

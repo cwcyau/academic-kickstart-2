@@ -1,5 +1,5 @@
 +++
-title = "MixDir: Scalable Bayesian Clustering for High-Dimensional Categorical Data"
+title = "MixDir: scalable Bayesian clustering for high-dimensional categorical data"
 date = "2018-01-01"
 publication_types = ["1"]
 authors = ["Constantin Ahlmann-Eltze", "Christopher Yau"]

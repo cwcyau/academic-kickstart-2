@@ -1,9 +1,9 @@
 +++
 title = "A recursive, stochastic vessel segmentation framework that robustly handles bifurcations"
 date = "2008-01-01"
-publication_types = ["2"]
+publication_types = ["1"]
 authors = ["Katherine Allen", "Christopher Yau", "J Noble"]
-publication = "In: Proc. Med. Image Underst. and Analysis"
+publication = "In: Proceedings of Medical Image Understanding and Analysis"
 abstract = ""
 abstract_short = ""
 image_preview = ""

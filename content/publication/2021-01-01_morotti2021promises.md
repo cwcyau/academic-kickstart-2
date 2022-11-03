@@ -2,8 +2,8 @@
 title = "Promises and challenges of adoptive T-cell therapies for solid tumours"
 date = "2021-01-01"
 publication_types = ["2"]
-authors = ["M Morotti", "A Albukhari", "A Alsaadi", "M Artibani", "JD Brenton", "SM Curbishley", "T Dong", "ML Dustin", "Z Hu", "N McGranahan", "et. al."]
-publication = "In: British Journal of Cancer"
+authors = ["Matteo Morotti", "Ashwag Albukhari", "Abdulkhaliq Alsaadi", "Mara Artibani", "James D Brenton", "Stuart M Curbishley", "Tao Dong", "Michael L Dustin", "Zhiyuan Hu", "Nicholas McGranahan", "{others}"]
+publication = "In: British journal of cancer, (124), 11, _pp. 1759--1776_"
 abstract = ""
 abstract_short = ""
 image_preview = ""
