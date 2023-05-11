@@ -27,12 +27,12 @@ education:
   courses:
   - course: PhD Statistical Machine Learning
     institution: University of Birmingham
-    year: 2024
+    year: 2023
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
-Dom Danks is a first-year Doctoral student at The Alan Turing Institute and the University of Birmingham. His multidisciplinary supervision team consists of Christopher Yau, Alastair Denniston, Andrew Beggs and Theodore Kypraios. His background lies in the fields of physics and machine learning, having studied for an MSci in Theoretical Physics at the University of Birmingham and an MSc in Computational Statistics and Machine Learning at UCL. He is particularly excited by the prospect of improving healthcare outcomes using modern statistical techniques. His doctoral research therefore focuses on developing statistical and machine learning methodologies which have applications within biomedical research.
+Dom Danks was a doctoral student at The Alan Turing Institute and the University of Birmingham. His background lies in the fields of physics and machine learning, having studied for an MSci in Theoretical Physics at the University of Birmingham and an MSc in Computational Statistics and Machine Learning at UCL. His doctoral research focused on developing statistical and machine learning methodologies which have applications within biomedical research. He is now a Data Scientist at BT.

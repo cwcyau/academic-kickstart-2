@@ -33,7 +33,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Hrvoje obtained his Bachelor’s and Master’s degree in Molecular Biology from the University of Zagreb. At the CRG-Centre for Genomic Regulation in Barcelona, he conducted his master thesis internship where he worked on the evolution of peroxisomes. He started his PhD in September, 2019 as a Marie Sklodowska-Curie fellow as part of the Computational Oncology TRaining (CONTRA) innovative training network at the Francis Crick Institute with Professor Francesca Ciccarelli.
